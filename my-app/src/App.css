@@ -1,0 +1,55 @@
+body {
+  background: rgb(248, 237, 92);
+  font-family: 'Verdana', sans-serif;
+  font-size: 30px;
+}
+
+input {
+  padding: 3px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.App {
+  text-align: center;
+}
+
+.app-title{
+  text-align: center;
+  color: rgb(188, 35, 8);
+  font-size: 50px;
+}
+
+.btn{
+  margin: 40px;
+  color: rgb(188, 35, 8);
+  border-radius: 10px;
+}
+
+.add-btn{
+  background: rgb(251, 252, 254);
+  width: 100px;
+  height: 40px;
+}
+
+.card {
+  width: 200px;
+  margin: 10px auto;
+  padding: 30px;
+  background-color: lightsteelblue;
+  border: rgb(188, 35, 8) 3px solid;
+}
+
+.overturned {
+  background-color: lightsteelblue;
+  border: rgb(188, 35, 8) 3px solid;
+}
+
+.container{
+  border: 5px solid rgb(32, 19, 174);
+  border-radius: 30px;
+  width: 50%;
+  min-width: 400px;
+  margin: 10px auto;
+  padding: 40px 20px;
+}
